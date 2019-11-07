@@ -34,6 +34,9 @@ public class LoginPage extends TestBase {
 	//Actions
 	public String validatePageTitle()
 	{
+		//hi this is changed 
+		
+		
 		return driver.getTitle();
 	}
 	
